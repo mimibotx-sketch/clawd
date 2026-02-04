@@ -1,0 +1,4 @@
+- Trello API key and token provided for updating Mimibot tasks board.
+- Remember to update the Trello board at https://trello.com/b/8f7EjVuI/mimibot-tasks with new tasks.
+- Fix for scheduled task 'Check email and deliver to Mimibot' to run gmail_access.py from correct directory completed.
+- When user asks to open a document but I can't do it, immediately give brief PowerShell command to open it.

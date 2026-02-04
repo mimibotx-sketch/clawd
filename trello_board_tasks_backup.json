@@ -1,0 +1,105 @@
+{
+  "To Do": [
+    {
+      "id": "697fbb207a416472647e0133",
+      "name": "Build daily briefing email feature"
+    },
+    {
+      "id": "697fca1e3097c66fc6bebab8",
+      "name": "weekly/daily MimiBot security report"
+    },
+    {
+      "id": "697ff29c25ffa21a80305c1a",
+      "name": "Set up Clawdbot gateway as Windows service with auto-restart"
+    },
+    {
+      "id": "697ff38a0fb36e0632dc55db",
+      "name": "Configure secure remote web access to Clawdbot gateway"
+    },
+    {
+      "id": "697ff7c0cd396e2d9c8d8e0e",
+      "name": "Review and Plan Implementation of MimiBot Security and Operations Recommendations"
+    },
+    {
+      "id": "697ff877c70c0275ce4aa02f",
+      "name": "Regular Backup and Recovery Plan: Automate backups for configs and data; plan for quick restoration after failures"
+    },
+    {
+      "id": "697ff96d1011d1607799bde3",
+      "name": "Set up Google Drive for mimi.botx@gmail.com"
+    },
+    {
+      "id": "697ff96f2fdc165426153995",
+      "name": "Set up Finance and Accounting Tools (QuickBooks, Xero)"
+    },
+    {
+      "id": "697ff97186241e0f63643319",
+      "name": "Set up Note-taking Apps (Notion, Evernote, OneNote)"
+    },
+    {
+      "id": "697ffcd88cf97c57c53352c8",
+      "name": "Set up 11 Labs account connection safely"
+    },
+    {
+      "id": "69800e5188c16b5460e2f849",
+      "name": "Set up Google Sheets integration"
+    },
+    {
+      "id": "69804328ff595ae9a89ed8e3",
+      "name": "Set up Power BI dashboard for key financial metrics including crypto, Canadian interest rates, and commodity prices"
+    }
+  ],
+  "In Progress": [
+    {
+      "id": "69800d29d7e7b599d221d25e",
+      "name": "Trello Automation Integration"
+    },
+    {
+      "id": "69800d34e0feb3746dd3b454",
+      "name": "Safeword System Design & SMS Integration"
+    },
+    {
+      "id": "69800d37133889c28d6289f0",
+      "name": "Scheduled Clawdbot Security Audit"
+    },
+    {
+      "id": "6980190424c2b19e0c6fddd0",
+      "name": "\"Estimate and Set Target Completion Dates on Trello Cards\""
+    }
+  ],
+  "Failed": [],
+  "Done": [
+    {
+      "id": "697ed9cae5314e0cdc6c517d",
+      "name": "Diagnose and fix gateway closing issue"
+    },
+    {
+      "id": "697edac74b9bedc48564cd50",
+      "name": "Test Task: Move from To Do to In Progress to Done"
+    },
+    {
+      "id": "697eebb16770304502a2d9bf",
+      "name": "Set up Mimi.botx Gmail account access"
+    },
+    {
+      "id": "697ed9d613caa733e9fae224",
+      "name": "Clear cache/temp for Clawdbot"
+    },
+    {
+      "id": "697ed9d73122be1bb629c35f",
+      "name": "Run clawdbot doctor --fix"
+    },
+    {
+      "id": "697ed9d92c7b0b5ac10822ce",
+      "name": "Monitor gateway stability after fix"
+    },
+    {
+      "id": "697ed9da747c5609e66aeb26",
+      "name": "Setup Kanban board integration with Trello"
+    },
+    {
+      "id": "697eec17c9d1b0e7590210c5",
+      "name": "Add  Failed list to mimibot Kanban board"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+To-Do List for Clawdbot Setup and Use:
+
+1. Review if skipping orientation and skill additions caused difficulty in using Clawdbot.
+2. Consider going back to add skills and complete orientation.
+3. Identify specific steps for effective use as a personal assistant for tasks like scheduling, budgeting, forecasting, research, economics, analysis, finance, cash flow, and accounting.
+4. Understand if the current setup hinders coding-related tasks.
+5. Learn beginner tips for Clawdbot setup and usage.
+6. Note overall difficulty experienced with Clawdbot integration.
+
+Skills to Install:
+- apple-notes
+- apple-reminders
+- summarize
+- obsidian
+- oracle
+- openai-whisper
+- imsg
+- model-usage
